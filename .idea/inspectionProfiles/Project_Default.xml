@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pytest" />
+          <option value="openpyxl" />
+          <option value="requests" />
+          <option value="json" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
